@@ -1,5 +1,6 @@
 # Fake Shop
 
+Rode o cluster aplicando o manifesto do projeto com kubectl.
 
 ## Variável de Ambiente
 DB_HOST	=> Host do banco de dados PostgreSQL.
